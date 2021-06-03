@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Legacy Indent Creation" verbose="5">
+
+    <parameter name="browser" value="Chrome" />
+	<parameter name="baseURL" value="http://ops-stg.gobolt.team/" />
+	<parameter name="userName" value="GB0000" />
+	<parameter name="Password" value="prod@GB789#$" />
+
+<!-- 	<test name="Login test">
+		<parameter name="browser" value="Chrome" /> -->
+		<classes>
+		<class name= "IndentCreate.com.legacy.data">
+	</class>
+	</classes>
+	
+<!-- 	</test> -->
+
+</suite>
