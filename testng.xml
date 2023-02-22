@@ -3,9 +3,9 @@
 <suite name="Legacy Indent Creation" verbose="5">
 
     <parameter name="browser" value="Chrome" />
-	<parameter name="baseURL" value="http://ops-stg.gobolt.team/" />
-	<parameter name="userName" value="GB0000" />
-	<parameter name="Password" value="prod@GB789#$" />
+	<parameter name="baseURL" value="http://ops-stg.go.team/" />
+	<parameter name="userName" value="GB00000" />
+	<parameter name="Password" value="Test@123" />
 
 <!-- 	<test name="Login test">
 		<parameter name="browser" value="Chrome" /> -->
